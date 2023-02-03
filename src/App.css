@@ -28,6 +28,32 @@
   color: #61dafb;
 }
 
+.digital-clock{
+  border: solid 10px chartreuse;
+  border-radius: 20px;
+  margin-bottom: 10%;
+}
+
+.countdown{
+  border: solid 10px #00a8ff;
+  border-radius: 20px;
+  margin-bottom: 10%;
+}
+
+.stopwatch{
+  border: solid 10px #883fc4;
+  border-radius: 20px;
+  margin-bottom: 10%;
+}
+
+.BtnsWatch{
+  border: solid 10px #a16ecb;
+  border-radius: 20px;
+  margin-bottom: 4%;
+  font-size: 0rem;
+  border-left-color: currentcolor;
+  border-right-color: currentColor;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
